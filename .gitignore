@@ -43,3 +43,9 @@ week-*/
 
 # Un-ignore released weeks (add more as you release)
 !week-01-tools/
+
+# Ignore root docs until ready to release
+curriculum.md
+planning.md
+README.md
+SETUP.md
