@@ -34,3 +34,12 @@ coverage/
 # Temporary files
 tmp/
 temp/
+
+# ===========================================
+# INCREMENTAL RELEASE CONTROL
+# ===========================================
+# Ignore all weeks by default
+week-*/
+
+# Un-ignore released weeks (add more as you release)
+!week-01-tools/
